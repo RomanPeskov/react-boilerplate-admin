@@ -1,0 +1,11 @@
+{
+  "components.userProfile.email": "Email",
+  "components.userProfile.name": "Name",
+  "components.userProfile.goBack": "Go back",
+  "components.userProfile.notFound": "User didn't find",
+  "components.userProfile.saveProfile": "Save profile",
+  "components.userProfile.editProfile": "Edit profile",
+  "components.usersList.name": "Name",
+  "components.usersList.notFound": "Users didn't find",
+  "components.usersList.readMore": "Read more"
+}
